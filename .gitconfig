@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = thexrayone@icloud.com
+	name = Charles Yahouedeou
+[core]
+	editor = nano
